@@ -25,5 +25,7 @@ python3 eval.py --test_data_path=/tmp/images/ --gpu_list=0 --checkpoint_path=/tm
 流程图如下
 
 
+![avatar](procedure.png)
+
 
 
